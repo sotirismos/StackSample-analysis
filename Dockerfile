@@ -19,7 +19,6 @@ RUN pip install -r requirements.txt
 RUN useradd -m satori
 WORKDIR /home/satori
 
-COPY docker/run.sh run.sh
 COPY dev dev
 
 RUN chmod +x run.sh && chown -R satori /home/satori

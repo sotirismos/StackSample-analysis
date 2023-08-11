@@ -1,4 +1,4 @@
-### satori analytics case study (StackOverflow Tag Prediction)
+### StackOverflow Tag Prediction
 
 - `EDA.ipynb` includes the exploratory data analysis experiments
 - `Data preprocessing.ipynb` includes the experiments for the preprocessing of the dataset
